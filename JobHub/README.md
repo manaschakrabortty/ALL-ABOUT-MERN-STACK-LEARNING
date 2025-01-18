@@ -9,35 +9,6 @@
     🏆 Competitions: Participate in skill-building competitions or host your own!
     🎨 Beautiful UI: Powered by Tailwind CSS for a responsive and modern design.
     ⚙️ Scalable Architecture: A clean structure separating backend APIs, controllers, and frontend components.
-    🗂️ Folder Structure
-
-                  📂 Job Hub  
-                  ├── 📁 api  
-                  │   ├── 📂 controllers  
-                  │   │   ├── 📄 competitionController.js  
-                  │   │   ├── 📄 jobController.js  
-                  │   │   ├── 📄 userController.js  
-                  │   ├── 📂 models  
-                  │   │   ├── 📄 Competition.js  
-                  │   │   ├── 📄 Job.js  
-                  │   │   ├── 📄 Otp.js  
-                  │   │   ├── 📄 User.js  
-                  │   ├── 📂 routes  
-                  │   ├── 📄 utils.js  
-                  ├── 📂 client  
-                  │   ├── 📂 public  
-                  │   ├── 📂 src  
-                  │   │   ├── 📂 components  
-                  │   │   ├── 📂 pages  
-                  │   │   ├── 📂 styles  
-                  │   ├── 📄 index.html  
-                  ├── 📄 .eslintrc.cjs  
-                  ├── 📄 .gitignore  
-                  ├── 📄 README.md  
-                  ├── 📄 package.json  
-                  ├── 📄 postcss.config.js  
-                  ├── 📄 tailwind.config.js  
-                  ├── 📄 vite.config.js  
                   💻 Technologies Used
     Backend  
           ⚡ Node.js: Fast and efficient server runtime.
@@ -58,12 +29,6 @@
     ✔️ Set up MongoDB locally or use a cloud solution like MongoDB Atlas.
 
 
-            Src:
-            📂 Components: Reusable React components.
-            📂 Pages: Core pages for the app.
-            🎨 Styles: Tailwind CSS and custom styling.
-            🤝 Contributing
-            We 💖 contributions! Follow these steps to contribute:
 
     
     📜 License
