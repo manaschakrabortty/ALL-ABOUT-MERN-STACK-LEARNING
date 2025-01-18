@@ -76,11 +76,11 @@ Controllers:
   👥 userController.js: User authentication and management.
 Models:
 
-📄 Competition.js: Schema for competitions.
-📄 Job.js: Schema for job data.
-📄 Otp.js: Stores OTP for validation.
-📄 User.js: Schema for user accounts.
-Routes: API endpoints for seamless backend and frontend communication.
+  📄 Competition.js: Schema for competitions.
+  📄 Job.js: Schema for job data.
+  📄 Otp.js: Stores OTP for validation.
+  📄 User.js: Schema for user accounts.
+  Routes: API endpoints for seamless backend and frontend communication.
 
 Utilities:
 
@@ -103,7 +103,7 @@ Commit changes:
     git commit -m "Add a new feature"
 Push to the branch:
 
-git push origin feature-name
+    git push origin feature-name
 Create a Pull Request!
 
     
@@ -113,5 +113,5 @@ Create a Pull Request!
 📞 Contact
 For queries or suggestions, reach out to us:
 
-✉️ Email: manaschakrabortty34@gmail.com
-🔗 GitHub: manaschakrabortty
+    ✉️ Email: manaschakrabortty34@gmail.com
+    🔗 GitHub: manaschakrabortty
