@@ -28,7 +28,83 @@
     ✔️ Install Node.js and npm on your system.
     ✔️ Set up MongoDB locally or use a cloud solution like MongoDB Atlas.
 
+🛠️ Installation Steps
+Clone the repository:
+                  git clone https://github.com/your-username/job-hub.git
+cd job-hub
+Navigate to the backend:
+cd api
+Install backend dependencies:
 
+
+npm install
+Navigate to the frontend:
+
+cd client
+Install frontend dependencies:
+
+npm install
+🔧 Environment Setup
+      Create a .env file in the api folder and add the following:
+      plaintext
+      Copy
+      Edit
+      PORT=5000  
+      MONGO_URI=your_mongo_connection_string  
+      JWT_SECRET=your_secret_key  
+      OTP_SECRET=your_otp_secret  
+🚀 Run the Project
+Start the backend server:
+
+      cd api
+      npm start
+Start the frontend development server:
+
+      cd client
+      npm run dev
+Open your browser and visit:
+
+arduino
+
+    http://localhost:5173
+📌 Key Project Modules
+Backend
+Controllers:
+
+  🏆 competitionController.js: Competition-related business logic.
+  💼 jobController.js: Manage job postings and details.
+  👥 userController.js: User authentication and management.
+Models:
+
+📄 Competition.js: Schema for competitions.
+📄 Job.js: Schema for job data.
+📄 Otp.js: Stores OTP for validation.
+📄 User.js: Schema for user accounts.
+Routes: API endpoints for seamless backend and frontend communication.
+
+Utilities:
+
+🔧 utils.js: Helper functions for OTP generation and other tasks.
+Frontend
+Public: Static assets and the base index.html.
+Src:
+📂 Components: Reusable React components.
+📂 Pages: Core pages for the app.
+🎨 Styles: Tailwind CSS and custom styling.
+🤝 Contributing
+We 💖 contributions! Follow these steps to contribute:
+
+Fork the repository.
+Create a new branch:
+
+    git checkout -b feature-name
+Commit changes:
+
+    git commit -m "Add a new feature"
+Push to the branch:
+
+git push origin feature-name
+Create a Pull Request!
 
     
     📜 License
