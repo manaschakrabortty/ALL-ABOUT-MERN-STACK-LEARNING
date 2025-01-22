@@ -1,4 +1,5 @@
 🚀 Job Hub
+
         🌟 Job Hub is your all-in-one solution for finding jobs, hosting competitions, and managing users seamlessly. Built with cutting-edge technologies, this full-stack application is designed to deliver an exceptional user experience with scalability in mind.
   
   🌟 Features
