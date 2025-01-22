@@ -10,12 +10,16 @@
     ⚙️ Scalable Architecture: A clean structure separating backend APIs, controllers, and frontend components.
         
 💻 Technologies Used
+
     Backend  
+    
           ⚡ Node.js: Fast and efficient server runtime.
           🛠️ Express.js: Lightweight web framework for building RESTful APIs.
           📦 MongoDB: NoSQL database for seamless data management.
           🗄️ Mongoose: Elegant MongoDB object modeling for Node.js.
+          
     Frontend
+    
           ⚡ Vite: Ultra-fast build tool for development and production.
           ⚛️ React.js: Component-based UI library for an interactive experience.
           🎨 Tailwind CSS: Utility-first framework for designing responsive layouts.
