@@ -8,7 +8,8 @@
     🏆 Competitions: Participate in skill-building competitions or host your own!
     🎨 Beautiful UI: Powered by Tailwind CSS for a responsive and modern design.
     ⚙️ Scalable Architecture: A clean structure separating backend APIs, controllers, and frontend components.
-                  💻 Technologies Used
+        
+💻 Technologies Used
     Backend  
           ⚡ Node.js: Fast and efficient server runtime.
           🛠️ Express.js: Lightweight web framework for building RESTful APIs.
