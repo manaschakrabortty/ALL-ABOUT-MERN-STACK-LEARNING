@@ -23,23 +23,27 @@
           ⚡ Vite: Ultra-fast build tool for development and production.
           ⚛️ React.js: Component-based UI library for an interactive experience.
           🎨 Tailwind CSS: Utility-first framework for designing responsive layouts.
+          🔧 PostCSS: Advanced CSS processing and transformations.
+         ✅ ESLint: Maintain code quality and enforce consistent coding standards.
+         🔑 OTP Verification: Secure user authentication via OTP.
+         
 
-      🔧 PostCSS: Advanced CSS processing and transformations.
-      ✅ ESLint: Maintain code quality and enforce consistent coding standards.
-      🔑 OTP Verification: Secure user authentication via OTP.
-      🚀 Getting Started
-      Prerequisites
-    ✔️ Install Node.js and npm on your system.
-    ✔️ Set up MongoDB locally or use a cloud solution like MongoDB Atlas.
+Prerequisites
+
+            ✔️ Install Node.js and npm on your system.
+            ✔️ Set up MongoDB locally or use a cloud solution like MongoDB Atlas.
 
 🛠️ Installation Steps
-Clone the repository:
-                  git clone https://github.com/your-username/job-hub.git
-cd job-hub
-Navigate to the backend:
-cd api
-Install backend dependencies:
 
+Clone the repository:
+
+                          git clone https://github.com/your-username/job-hub.git
+cd job-hub
+
+Navigate to the backend:
+
+        cd api
+Install backend dependencies:
 
 npm install
 Navigate to the frontend:
@@ -47,16 +51,18 @@ Navigate to the frontend:
 cd client
 Install frontend dependencies:
 
+
 npm install
 🔧 Environment Setup
-      Create a .env file in the api folder and add the following:
-      plaintext
-      Copy
-      Edit
-      PORT=5000  
-      MONGO_URI=your_mongo_connection_string  
-      JWT_SECRET=your_secret_key  
-      OTP_SECRET=your_otp_secret  
+
+              Create a .env file in the api folder and add the following:
+              plaintext
+              Copy
+              Edit
+              PORT=5000  
+              MONGO_URI=your_mongo_connection_string  
+              JWT_SECRET=your_secret_key  
+              OTP_SECRET=your_otp_secret  
 🚀 Run the Project
 Start the backend server:
 
