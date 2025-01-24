@@ -1,4 +1,4 @@
-# 🎥 ProMeet{google-meet-clone}
+# 🎥 ProMeet {google-meet-clone}
 
 A modern, feature-rich video conferencing platform built with React, TypeScript, and Tailwind CSS. Experience seamless video calls with a beautiful, intuitive interface and powerful collaboration tools.
 
@@ -39,7 +39,7 @@ A modern, feature-rich video conferencing platform built with React, TypeScript,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/google-meet-clone.git
+git clone https://github.com/manaschakrabortty/google-meet-clone.git
 cd google-meet-clone
 ```
 
@@ -58,7 +58,7 @@ npm run dev
 npm run build
 ```
 
-## 📁 Project Structure
+
 
 ## 💡 Why Choose This Over Google Meet?
 
@@ -124,16 +124,29 @@ npm run build
    - Optimized performance
    - Scalable design
 
+
+## Roadmap
+### Planned Features:
+1. **Advanced AI Tools** 🧠:
+   - Meeting transcription and summaries.
+   - Automated task generation from meeting discussions.
+2. **Improved Collaboration Tools** 🤝:
+   - Integrated voting and polling.
+   - Breakout rooms for group discussions.
+3. **Larger Meeting Capacity** 🌍:
+   - Support for up to 500 participants.
+4. **Analytics Dashboard** 📊:
+   - Track meeting metrics and productivity insights.
+
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
-- Icons by [Lucide](https://lucide.dev)
+
 - UI components styled with [Tailwind CSS](https://tailwindcss.com)
 - Built with [React](https://reactjs.org)
