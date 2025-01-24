@@ -1,4 +1,4 @@
-# 🎥 Google Meet Clone 2.0 
+# 🎥 ProMeet{google-meet-clone}
 
 A modern, feature-rich video conferencing platform built with React, TypeScript, and Tailwind CSS. Experience seamless video calls with a beautiful, intuitive interface and powerful collaboration tools.
 
@@ -32,8 +32,8 @@ A modern, feature-rich video conferencing platform built with React, TypeScript,
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn
+- Node.js 
+- npm 
 
 ### Installation
 
@@ -44,35 +44,21 @@ cd google-meet-clone
 ```
 
 2. Install dependencies:
-```bash
+
 npm install
 ```
 
 3. Start the development server:
-```bash
+
 npm run dev
 ```
 
 4. Build for production:
-```bash
+
 npm run build
 ```
 
 ## 📁 Project Structure
-
-```
-src/
-├── components/         # Reusable UI components
-│   ├── Navbar.tsx     # Navigation bar
-│   └── TaskManager.tsx # Task management component
-├── pages/             # Main application pages
-│   ├── Home.tsx       # Landing page
-│   ├── Meeting.tsx    # Video conference room
-│   └── Calendar.tsx   # Calendar view
-├── store/             # State management
-│   └── useStore.ts    # Zustand store
-└── main.tsx           # Application entry point
-```
 
 ## 💡 Why Choose This Over Google Meet?
 
@@ -121,7 +107,7 @@ src/
 - 🔑 User authentication
 - 🚫 Anti-tampering measures
 
-## 🌟 Unique Selling Points
+
 
 1. **Simplicity First**
    - Clean, intuitive interface
