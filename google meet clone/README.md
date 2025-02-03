@@ -150,3 +150,15 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - UI components styled with [Tailwind CSS](https://tailwindcss.com)
 - Built with [React](https://reactjs.org)
+
+
+
+
+Usage
+Explain how to use your project with examples.
+
+Screenshots / Diagrams:--
+
+
+
+Demo Video
