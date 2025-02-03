@@ -159,7 +159,6 @@ Explain how to use your project with examples.
 
 Screenshots / Diagrams:--
 
-![Screenshot 2025-01-24 235213](https://github.com/user-attachments/assets/0274127b-0354-453d-9ef3-fb76b5a564f8)
 
+![Screenshot 2025-01-24 235213](https://github.com/user-attachments/assets/585e99a2-d401-46f3-8019-a1232357b857)
 
-Demo Video
