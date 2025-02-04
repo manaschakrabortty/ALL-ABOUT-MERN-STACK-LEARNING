@@ -160,7 +160,4 @@ Explain how to use your project with examples.
 Screenshots / Diagrams:--
 
 
-![Screenshot 2025-01-24 235213](https://github.com/user-attachments/assets/585e99a2-d401-46f3-8019-a1232357b857)
 
-![Screenshot 2025-01-24 235048](https://github.com/user-attachments/assets/bec19cdf-f162-4eeb-8439-9b2ccdeebbe3)
-![Screenshot 2025-01-24 235111](https://github.com/user-attachments/assets/49429777-0888-4a00-b788-27ac76dea013)
