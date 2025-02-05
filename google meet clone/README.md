@@ -145,6 +145,7 @@ npm run build
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 
+
 ## 🙏 Acknowledgments
 
 
@@ -160,4 +161,5 @@ Explain how to use your project with examples.
 Screenshots / Diagrams:--
 
 
+![Screenshot 2025-01-24 235213](https://github.com/user-attachments/assets/f742ff07-05f3-40b9-a639-ff36ae4598bb)
 
