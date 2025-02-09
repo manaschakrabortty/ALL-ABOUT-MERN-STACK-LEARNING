@@ -29,7 +29,7 @@ Welcome to my **MERN Stack** projects repository! 🎉 Here, I share all the ama
 🔹 **Cloud & Deployment:**  
 - ☁️ **AWS / Cloudinary** – Cloud storage & media handling  
 - 🚀 **Vercel / Netlify** – Frontend hosting  
-- 🖥️ **Render / Heroku** – Backend deployment  
+
 
 ---
 
