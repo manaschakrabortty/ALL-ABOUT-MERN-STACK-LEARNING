@@ -12,9 +12,14 @@ MERN stands for:
 
 
 
-Introduction
-The MERN stack is one of the most popular stacks for developing modern web applications. Combining MongoDB, Express.js, React.js, and Node.js, it offers a full-stack development environment using just JavaScript, both on the client and server sides.
 
-My goal is to understand each component in depth and apply it to build robust, scalable web applications. This journey will cover everything from the basics to advanced concepts like authentication, REST APIs, and deploying applications.
+
+Introduction
+The MERN stack is one of the most popular stacks for developing modern web applications. Combining MongoDB, 
+Express.js, React.js, and Node.js, it offers a full-stack development environment using just JavaScript, both on the client and server sides.
+
+
+My goal is to understand each component in depth and apply it to build robust, scalable web applications. 
+This journey will cover everything from the basics to advanced concepts like authentication, REST APIs, and deploying applications.
 
 
