@@ -53,8 +53,7 @@ Here, I share **various MERN stack projects**, covering different domains:
 
 Here are some previews of my projects! 🎨📸  
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Project+Preview)  
-*(Replace this with actual screenshots of your projects.)*  
+
 
 ---
 
